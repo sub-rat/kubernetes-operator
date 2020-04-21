@@ -1,0 +1,20 @@
+apiVersion: presentation.subratgyawai.com.np/v1alpha1
+kind: Presentation
+metadata:
+  name: first-presentation
+spec:
+  markdown: |
+    # Welcome to My First Presentation
+    ---
+    ## Slide 1
+
+    * Successfully created CRD
+    ---
+    ## Slide 2
+
+    * Successfully created Operator
+    ---
+    ## Slide 3
+
+    * Demo completed
+    ---
